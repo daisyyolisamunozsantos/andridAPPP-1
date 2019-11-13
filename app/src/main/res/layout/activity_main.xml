@@ -28,7 +28,7 @@
         <Button android:id="@+id/btnAboutUs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="tocame">   </Button>
+            android:text="Tocame Pues">   </Button>
 
 
     </LinearLayout>
